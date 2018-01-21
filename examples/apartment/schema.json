@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ApartmentComplex",
+  "additionalType": "LocalBusiness",
+  "url": "http://www.daroapartments.com/properties/the-rodman/",
+  "image": "http://www.daroapartments.com/wp-content/uploads/2016/11/Rodman-027_final-e1478538544340.jpg",
+  "logo": "http://www.daroapartments.com/wp-content/uploads/2017/12/daro.png",
+  "sameAs": [
+    "https://www.facebook.com/The-Rodman-626880931034330/",
+    "https://www.instagram.com/daroapartments",
+    "https://twitter.com/DaroManagement"
+  ],
+  "name": "The Rodman Apartments",
+  "description": "A perfect location in the heart of one of DC’s most premier neighborhoods, this beautifully maintained historic building offers all the comforts of home you’ve come to expect. Refinished apartments with modern touches and charming amenities, The Rodman boasts an array of conveniences to its residents. Utilities included except cooking gas. A great Washington, DC Read More",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Washington",
+    "addressRegion": "DC",
+    "name": "The Rodman Apartments",
+    "postalCode": "20008",
+    "streetAddress": "3002 Rodman St NW",
+    "telephone": "(855) 850-4719"
+  },
+  "hasMap": "https://maps.google.com/maps?cid=11397003274648752779",
+  "openingHoursSpecification": [
+    "Mon 09:00 AM - 07:00 PM",
+    "Tue 09:00 AM - 07:00 PM",
+    "Wed 09:00 AM - 07:00 PM",
+    "Thu 09:00 AM - 07:00 PM",
+    "Fri 09:00 AM - 06:00 PM",
+    "Sat 10:00 AM - 05:00 PM",
+    "Sun 12:00 PM - 05:00 PM"
+  ]
+}
